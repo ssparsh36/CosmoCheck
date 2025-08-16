@@ -20,11 +20,6 @@ Robust Detection: Handles noisy, adversarial, or partially corrupted summaries.
 
 High Accuracy: Achieved 0.91 pairwise accuracy on evaluation sets.
 
-Installation
-git clone https://github.com/yourusername/CosmoCheck.git
-cd CosmoCheck
-pip install -r requirements.txt
-
 Usage
 from cosmocheck import CosmoCheck
 
